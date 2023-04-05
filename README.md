@@ -1,5 +1,5 @@
 ## Sudoku Game
-* SudokuGUI é uma aplicação Java que permite aos usuários jogar o popular jogo de lógica Sudoku em uma interface gráfica simples e fácil de usar. A aplicação foi desenvolvida utilizando a linguagem de programação Java, o toolkit de interface gráfica Swing e a biblioteca de resolução de Sudoku (SudokuBoard).
+* Esta é uma aplicação Java que permite aos usuários jogar o popular jogo de lógica Sudoku em uma interface gráfica simples e fácil de usar. A aplicação foi desenvolvida utilizando a linguagem de programação Java, o toolkit de interface gráfica Swing e a biblioteca de resolução de Sudoku (SudokuBoard).
 
 ## Tecnologias utilizadas
 * Java: A linguagem de programação Java foi escolhida para desenvolver a aplicação devido à sua portabilidade e facilidade de uso para criar interfaces gráficas.
