@@ -21,6 +21,8 @@
 ### Resolução automática
 * Os jogadores podem utilizar o botão "Solve All" para resolver o tabuleiro automaticamente. O aplicativo irá preencher todas as células vazias com os valores corretos e verificar se o tabuleiro foi completado.
 
+<img src="sudoku.png">
+
 ## Métodos principais
 ### actionPerformed(ActionEvent e)
 Este método é responsável por lidar com eventos de ação dos itens de menu e botões da interface. Ele gerencia a geração de novos tabuleiros, a resolução automática e o fechamento da aplicação.
