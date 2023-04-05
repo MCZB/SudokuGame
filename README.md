@@ -4,13 +4,13 @@
 ## Tecnologias utilizadas
 * Java: A linguagem de programação Java foi escolhida para desenvolver a aplicação devido à sua portabilidade e facilidade de uso para criar interfaces gráficas.
 
-Swing: O toolkit Swing foi utilizado para criar a interface gráfica do usuário (GUI) para a aplicação. Swing é uma biblioteca Java que fornece uma ampla variedade de componentes e controles para desenvolver interfaces gráficas ricas e interativas.
+* Swing: O toolkit Swing foi utilizado para criar a interface gráfica do usuário (GUI) para a aplicação. Swing é uma biblioteca Java que fornece uma ampla variedade de componentes e controles para desenvolver interfaces gráficas ricas e interativas.
 
-SudokuBoard: A biblioteca SudokuBoard é responsável por gerar e resolver tabuleiros de Sudoku. Ela é utilizada para fornecer a lógica de jogo e verificar se o tabuleiro foi completado corretamente.
+* SudokuBoard: A biblioteca SudokuBoard é responsável por gerar e resolver tabuleiros de Sudoku. Ela é utilizada para fornecer a lógica de jogo e verificar se o tabuleiro foi completado corretamente.
 
-Funcionalidades
-Geração de tabuleiro
-O aplicativo oferece três níveis de dificuldade (fácil, médio e difícil) para gerar um novo tabuleiro de Sudoku. Os jogadores podem selecionar um nível de dificuldade no menu "New Game" para gerar um novo tabuleiro.
+## Funcionalidades
+### Geração de tabuleiro
+* O aplicativo oferece três níveis de dificuldade (fácil, médio e difícil) para gerar um novo tabuleiro de Sudoku. Os jogadores podem selecionar um nível de dificuldade no menu "New Game" para gerar um novo tabuleiro.
 
 Seleção e preenchimento de células
 Os jogadores podem clicar em uma célula vazia no tabuleiro para selecioná-la e preenchê-la com um valor usando os botões numéricos (1-9) localizados na parte superior da interface.
